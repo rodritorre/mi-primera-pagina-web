@@ -16,3 +16,8 @@ ul {list-style-type: disc; padding-left: 20px;}
 footer {background-color: #2a2a2a; color: #fff; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0;}
 
 p {text-align: justify;}
+
+.imagen-seccion {width: 100%; max-width: 600px; display: block;margin: 0 auto 15px auto; border-radius: 8px; }
+  
+  footer {background-color: #2a2a2a;color: #fff;text-align: center;padding: 10px;position: fixed;width: 100%;bottom: 0;}
+  
